@@ -1,0 +1,35 @@
+{
+    "name": "PAYC#315",
+    "description": "The Pulse Ape Yacht Club is a collection of 5555 unique digital collectibles in Pulsechain.",
+    "image": "https://raw.githubusercontent.com/heart-labs/payc-metadata/5ae5d96bc0a60ef5931865e775294ec5f1c811a8/images/315.jpg",
+    "dna": "1bf1e8fa18dd5556d142ed618164344f6fc06e03",
+    "edition": 315,
+    "date": 1689301441473,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pulse"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Trippy2"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonShirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3dGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        }
+    ],
+    "compiler": "HashLips Art Engine"
+}
